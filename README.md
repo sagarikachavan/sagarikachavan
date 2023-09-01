@@ -13,7 +13,7 @@
 
 ### :woman_technologist: &nbsp;Sagarika M Chavan here :
 
-I have a Bachelor of Technology degree in Computer Science and Engineering from PES University<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I completed my Bachelor of Technology degree in Computer Science and Engineering from PES University<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 🔭 I am currently working as a Senior Engineer at Bosch and contributing to the autonomous driving domain to provide data delivery and data visualization solutions.
 - ⚡ I enjoy coding. I am very enthusiastic about learning new technology and enhancing my skills.
