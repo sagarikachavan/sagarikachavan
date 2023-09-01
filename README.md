@@ -11,7 +11,7 @@
 
 <!--<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>-->
 
-### :woman_technologist: &nbsp;Sagarika M Chavan here :
+### :woman_technologist: &nbsp;Sagarika M Chavan here :)
 
 I completed my Bachelor of Technology degree in Computer Science and Engineering from PES University<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
@@ -66,7 +66,7 @@ I completed my Bachelor of Technology degree in Computer Science and Engineering
 
 ---
 
-### 🔥 &nbsp; My Stats :
+### &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sagarikachavan&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarikachavan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
