@@ -11,7 +11,7 @@
 
 <!--<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>-->
 
-### :woman_technologist: &nbsp;About Me :
+### :woman_technologist: &nbsp;Sagarika M Chavan here :
 
 I have a Bachelor of Technology degree in Computer Science and Engineering from PES University<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
