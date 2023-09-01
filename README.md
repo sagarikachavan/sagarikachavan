@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center"><img src="https://media3.giphy.com/media/0FB4a2z6B3ooAUIQXS/200.webp?cid=ecf05e47wv6d1kal4tahw5rhnqknulcla7wv0zsdiw0sg0hv&ep=v1_stickers_search&rid=200.webp&ct=s" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/sagarika-m-chavan-847669196/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
