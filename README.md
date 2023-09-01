@@ -17,7 +17,7 @@ I have a Bachelor of Technology degree in Computer Science and Engineering from 
 
 - 🔭 I am currently working as a Senior Engineer at Bosch and contributing to the autonomous driving domain to provide data delivery and data visualization solutions.
 - ⚡ I enjoy coding. I am very enthusiastic about learning new technology and enhancing my skills.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sagarika-m-chavan-847669196/)
+
 
 ---
 
